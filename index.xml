@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Heng Su</title>
+    <link>https://heng.su/</link>
+    <description>Recent content on Heng Su</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://heng.su/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Meet</title>
+      <link>https://heng.su/redirect/meet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://heng.su/redirect/meet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoom</title>
+      <link>https://heng.su/redirect/zoom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://heng.su/redirect/zoom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
